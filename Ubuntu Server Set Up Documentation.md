@@ -24,3 +24,10 @@ Here is what needs to be checked for the SSH install:
 
 Following this, we didn't add any packages:
 <img width="1351" height="500" alt="image" src="https://github.com/user-attachments/assets/45e27a9e-bcf3-415d-a597-38bc151f620f" />
+
+Once the installation finishes, hit the "Reboot Now" button.
+
+After the installation, go to the Hardware and change the option:
+<img width="940" height="587" alt="image" src="https://github.com/user-attachments/assets/b79be9ba-cbea-493f-8784-b8f15e9c3bea" />
+
+
