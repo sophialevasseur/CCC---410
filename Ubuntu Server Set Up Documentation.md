@@ -22,3 +22,5 @@ Setting up our password and other information:
 Here is what needs to be checked for the SSH install:
 <img width="1090" height="378" alt="image" src="https://github.com/user-attachments/assets/a571fc86-41dc-48e3-9a07-6416769cecb2" />
 
+Following this, we didn't add any packages:
+<img width="1351" height="500" alt="image" src="https://github.com/user-attachments/assets/45e27a9e-bcf3-415d-a597-38bc151f620f" />
