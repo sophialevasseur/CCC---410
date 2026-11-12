@@ -12,3 +12,13 @@ Choose the done option for this, for the time being as well:
 
 We are keeping everything as is for the time being and here is what it looks like:
 <img width="1430" height="600" alt="Screenshot 2026-11-12 112711" src="https://github.com/user-attachments/assets/d8ae3d20-6a81-45c3-be97-2371ba4c2241" />
+
+This is showing us the summary:
+<img width="967" height="695" alt="image" src="https://github.com/user-attachments/assets/7b61b562-7972-49d2-8b1b-86f501e167b9" />
+
+Setting up our password and other information:
+<img width="1441" height="431" alt="image" src="https://github.com/user-attachments/assets/a3a7a7a7-74bf-4ae5-9f13-2a46056bdfcd" />
+
+Here is what needs to be checked for the SSH install:
+<img width="1090" height="378" alt="image" src="https://github.com/user-attachments/assets/a571fc86-41dc-48e3-9a07-6416769cecb2" />
+
