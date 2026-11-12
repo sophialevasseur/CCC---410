@@ -12,14 +12,24 @@ export default async function Home() {
     return <p>Could not reach the API. Is the Go server running?</p>
   }
 
-  return (
-    <main>
-      <h1>VelaSupport</h1>
-      <ul>
-        {categories.map((c) => (
-          <li key={c.id}>{c.name}</li>
-        ))}
-      </ul>
+      return (
+    <main className="min-h-screen bg-secondary text-slate-900">
+
+      <section className="mx-auto max-w-4xl px-6 py-10">
+        <h2 className="mb-6 text-xl font-semibold text-tertiary">
+          Browse by category
+        </h2>
+        <ul className="grid grid-cols-2 gap-4 sm:grid-cols-3">
+          {categories.map((c) => (
+            <li
+              key={c.id}
+              className="rounded-lg border-b-4 border-primary bg-white p-4 text-center font-medium text-slate-800 shadow-sm transition hover:shadow-md"
+            >
+              {c.name}
+            </li>
+          ))}
+        </ul>
+      </section>
     </main>
   )
 }
