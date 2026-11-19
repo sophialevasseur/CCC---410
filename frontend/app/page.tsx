@@ -23,7 +23,7 @@ export default async function Home() {
           {categories.map((c) => (
             <li
               key={c.id}
-              className="rounded-lg border-b-4 border-primary bg-white p-4 text-center font-medium text-slate-800 shadow-sm transition hover:shadow-md"
+              className="rounded-lg border-b-4 border-primary bg-tertiary p-4 text-center font-medium text-slate-800 text-white shadow-sm transition hover:shadow-md"
             >
               {c.name}
             </li>
